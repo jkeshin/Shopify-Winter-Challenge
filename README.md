@@ -20,4 +20,4 @@ Question 2: For this question you’ll need to use SQL. Follow this link to acce
 
 3. What product was ordered the most by customers in Germany?
 
-Answered in a word doc named SQL_Questions
+Answered in a Word document named SQL_Questions
